@@ -1,0 +1,20 @@
+title: medicalcloud
+description: 漢方の古典の原文・現代語訳と、漢方医学・医学史に関する資料やツールの一覧
+lang: ja
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+relative_links:
+  enabled: true
+  collections: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - README.md
