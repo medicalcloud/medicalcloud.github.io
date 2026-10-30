@@ -21,6 +21,7 @@ title: トップ
 | 黄帝内経 | 素問・霊枢の全篇。張志聡集注など | [ページ](https://medicalcloud.github.io/koteidaikei/) | [GitHub](https://github.com/medicalcloud/koteidaikei) |
 | 神農本草経 | 孫星衍の輯本。他の輯本・本草書の条と注釈書。全818単位 | [ページ](https://medicalcloud.github.io/shinnohonzokyo/) | [GitHub](https://github.com/medicalcloud/shinnohonzokyo) |
 | 和剤局方 | 太平恵民和剤局方。全1431単位 | [ページ](https://medicalcloud.github.io/wazaikyokuho/) | [GitHub](https://github.com/medicalcloud/wazaikyokuho) |
+| 難経 | 王翰林集註本。全81難。集註と滑寿注付き。日本語訳のみ | [ページ](https://medicalcloud.github.io/nangyo/) | [GitHub](https://github.com/medicalcloud/nangyo) |
 
 ## 二十四史の医療の記事
 
