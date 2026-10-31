@@ -22,6 +22,7 @@ title: トップ
 | 神農本草経 | 孫星衍の輯本。他の輯本・本草書の条と注釈書。全818単位 | [ページ](https://medicalcloud.github.io/shinnohonzokyo/) | [GitHub](https://github.com/medicalcloud/shinnohonzokyo) |
 | 和剤局方 | 太平恵民和剤局方。全1431単位 | [ページ](https://medicalcloud.github.io/wazaikyokuho/) | [GitHub](https://github.com/medicalcloud/wazaikyokuho) |
 | 難経 | 王翰林集註本。全81難。集註と滑寿注付き。日本語訳のみ | [ページ](https://medicalcloud.github.io/nangyo/) | [GitHub](https://github.com/medicalcloud/nangyo) |
+| 薬徴 | 吉益東洞の著。東大本。全52単位。日本語訳のみ | [ページ](https://medicalcloud.github.io/yakucho/) | [GitHub](https://github.com/medicalcloud/yakucho) |
 
 ## 二十四史の医療の記事
 
