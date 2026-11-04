@@ -24,6 +24,8 @@ title: トップ
 | 難経 | 王翰林集註本。全81難。集註と滑寿注付き。日本語訳のみ | [ページ](https://medicalcloud.github.io/nangyo/) | [GitHub](https://github.com/medicalcloud/nangyo) |
 | 薬徴 | 吉益東洞の著。東大本。全52単位。日本語訳のみ | [ページ](https://medicalcloud.github.io/yakucho/) | [GitHub](https://github.com/medicalcloud/yakucho) |
 | 山海経 | 正統道蔵本。全18巻792単位。郭璞注付き。医学書ではなく、本草学の背景資料として。効能の一覧と本草書との対応付き。日本語訳のみ | [ページ](https://medicalcloud.github.io/sengaikyo/) | [GitHub](https://github.com/medicalcloud/sengaikyo) |
+| 脾胃論 | 金の李杲（東垣）の著。明の仁寿堂刊本。全105単位。日本語訳のみ | [ページ](https://medicalcloud.github.io/hiiron/) | [GitHub](https://github.com/medicalcloud/hiiron) |
+| 内外傷弁惑論 | 金の李杲（東垣）の著。脾胃論の前著。明の仁寿堂刊本。全73単位。日本語訳のみ | [ページ](https://medicalcloud.github.io/naigaishobenwakuron/) | [GitHub](https://github.com/medicalcloud/naigaishobenwakuron) |
 
 ## 二十四史の医療の記事
 
